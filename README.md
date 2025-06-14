@@ -76,7 +76,7 @@ This sketch helps students:
 
 ---
 
-## 📄 License
+## License
 
 This project is created for educational purposes. You are free to use, modify, and distribute it with attribution.
 
